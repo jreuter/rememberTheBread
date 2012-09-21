@@ -11,4 +11,8 @@ public class ListsController extends Application {
 		return ok( model.read() );
 	}
 	
+	public static Result create() {
+		Lists model = new Lists();
+		return ok( model.create() );
+	}
 }

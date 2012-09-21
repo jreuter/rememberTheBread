@@ -4,9 +4,9 @@ import play.*;
 import play.mvc.*;
 
 public class Lists extends BaseModel {
-
-	public String read() {
-		return "just a test";
+	
+	public Lists() {
+		this.table = "lists";
 	}
 	
 }

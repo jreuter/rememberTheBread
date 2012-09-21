@@ -1,9 +1,0 @@
-2012-09-21 16:03:30,729 - [INFO] - from play in main 
-Listening for HTTP on port 9000...
-
-2012-09-21 16:03:38,159 - [INFO] - from play in play-akka.actor.default-dispatcher-2 
-database [default] connected at jdbc:postgresql://localhost/rememberTheBread
-
-2012-09-21 16:03:39,008 - [INFO] - from play in play-akka.actor.default-dispatcher-2 
-Application started (Dev)
-
